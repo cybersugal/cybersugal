@@ -1,6 +1,6 @@
 # Hi there, I'm Sugal 👋
 
-I'm a second-year Information Technology student passionate about **Cybersecurity**, **Network Traffic Analysis**, **Software Security**, and **Interactive Web Development**. 
+I'm a second-year Computer System Engineering student passionate about **Cybersecurity**, **Network Traffic Analysis**, **Software Security**, and **Interactive Web Development**. 
 
 ---
 
