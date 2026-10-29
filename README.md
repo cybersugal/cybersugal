@@ -7,9 +7,8 @@ I'm a second-year Computer System Engineering student passionate about **Cyberse
 ### 🛠️ Tech Stack & Tools
 
 * **Security & Networking:** Wireshark, WPScan, Burp Suite, Network Diagnostics, Security Auditing
-* **Languages & Scripts:** Python, JavaScript, Node.js, Express, SQL, Lua
-* **Databases:** MySQL
-* **Frontend & Web Applications:** HTML5/CSS3, A-Frame, Three.js, WebGL
+* **Languages:** Python, HTML5, CSS3, C#
+* **Databases & Tools:** MySQL, Git, VS Code
 
 ---
 
