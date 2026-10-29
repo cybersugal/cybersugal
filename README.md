@@ -8,7 +8,8 @@ I'm a second-year Computer System Engineering student passionate about **Cyberse
 
 * **Security & Networking:** Wireshark, WPScan, Burp Suite, Network Diagnostics, Security Auditing
 * **Languages:** Python, HTML5, CSS3, C#
-* **Databases & Tools:** MySQL, Git, VS Code
+* **Databases & Tools:** MySQL, Git, VS Code, Nexus, Wireshark
+* **Operating Systems:** Kali Linux, Windows, macOS
 
 ---
 
