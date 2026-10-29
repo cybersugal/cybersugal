@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Sugal 👋
 
-<!--
-**cybersugal/cybersugal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Information Technology student passionate about **Cybersecurity**, **Network Traffic Analysis**, **Software Security**, and **Interactive Web Development**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Security & Networking:** Wireshark, WPScan, Burp Suite, Network Diagnostics, Security Auditing
+* **Languages & Scripts:** Python, JavaScript, Node.js, Express, SQL, Lua
+* **Databases:** MySQL
+* **Frontend & Web Applications:** HTML5/CSS3, A-Frame, Three.js, WebGL
+
+---
+
+### 🚀 Featured Projects
+
+* 🛡️ **[FILEGUARD](https://github.com/cybersugal/FILEGUARD)** – Python-based security tool that inspects magic bytes to identify file types and detect extension mismatches.
+* 🌐 **[Wireshark Network Traffic Analysis](https://github.com/cybersugal/wireshark-network-traffic-analysis)** – Network traffic analysis lab inspecting DNS queries, TCP handshakes, and network behaviour.
+* 🔒 **[WordPress Security Assessment](https://github.com/cybersugal/wordpress-security-assessment-wpscan)** – Local WordPress security audit evaluating vulnerabilities using WPScan.
+
+---
+
+### 📫 Connect with Me
+
+* **GitHub:** [@cybersugal](https://github.com/cybersugal)
